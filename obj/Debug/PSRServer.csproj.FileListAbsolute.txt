@@ -1,0 +1,14 @@
+D:\PSK\PSR\Projekt\Version2\Server\PSRServer\PSRServer\bin\Debug\PSRServer.exe.config
+D:\PSK\PSR\Projekt\Version2\Server\PSRServer\PSRServer\bin\Debug\PSRServer.exe
+D:\PSK\PSR\Projekt\Version2\Server\PSRServer\PSRServer\bin\Debug\PSRServer.pdb
+D:\PSK\PSR\Projekt\Version2\Server\PSRServer\PSRServer\obj\Debug\PSRServer.csprojAssemblyReference.cache
+D:\PSK\PSR\Projekt\Version2\Server\PSRServer\PSRServer\obj\Debug\PSRServer.csproj.CoreCompileInputs.cache
+D:\PSK\PSR\Projekt\Version2\Server\PSRServer\PSRServer\obj\Debug\PSRServer.exe
+D:\PSK\PSR\Projekt\Version2\Server\PSRServer\PSRServer\obj\Debug\PSRServer.pdb
+D:\PSK\PSR\Projekt\Version2\Server\PSRServer\PSRServer\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\PSK\PSR\Projekt\Version2\Server\PSRServer\PSRServer\bin\Debug\Newtonsoft.Json.dll
+D:\PSK\PSR\Projekt\Version2\Server\PSRServer\PSRServer\bin\Debug\Newtonsoft.Json.pdb
+D:\PSK\PSR\Projekt\Version2\Server\PSRServer\PSRServer\bin\Debug\Newtonsoft.Json.xml
+D:\PSK\PSR\Projekt\Version2\Server\PSRServer\PSRServer\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\PSK\PSR\Projekt\Version2\Server\PSRServer\PSRServer\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\PSK\PSR\Projekt\Version2\Server\PSRServer\PSRServer\obj\Debug\PSRServer.csproj.CopyComplete
